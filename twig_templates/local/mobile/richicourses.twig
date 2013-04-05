@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head><title>My first Twig template in Moodle!</title></head>
+<body>
+    <h1>Courses</h1>
+        <table id="richi_courses">
+        <tbody>
+        {% for course in courses %}
+            <tr>
+            <td>{{ course.course_id}} </td>
+            <td>{{ course.course_name }}</td>
+            <td>{{ course.cat_name }}</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+        </table>
+
+</body>
+</html>

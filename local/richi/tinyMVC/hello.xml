@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <helloworld myname="{{ name }}">
+        <friends>
+        {% for person in friends %}
+            <friend firstname="{{ person.firstname}}" lastname="{{ person.lastname }}"/>
+        {% endfor %}
+        </friends>
+</helloworld>

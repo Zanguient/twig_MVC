@@ -1,0 +1,34 @@
+{% extends 'local/mobile/base.twig' %}
+
+{% block title %}{{ trans('courses') }}{% endblock %}
+
+{% block nav %}
+    <ul>
+        <li><a href="{{ logout_url }}" data-ajax="false">{{ trans('logout') }}&nbsp;{{ user.firstname }}</a></li>
+        <li><a href="{{ courses_url }}" class="ui-disabled">{{ trans('courses') }}</a></li>
+        <li><a href="{{ profile_url }}">{{ trans('profile') }}</a></li>
+    </ul>
+{% endblock %}
+
+{% block content %}
+    <ul data-role="listview">
+        {% for course in courses %}
+        <li>
+            <a href="{{ course.link }}" data-ajax="false">
+                <h3>{{ course.fullname }}</h3>
+                {% if course.summary is empty %}
+                    <p>This course does not have a summary.</p>
+                {% else %}
+                    <p>{{ course.summary|striptags }}</p>
+                {% endif %}
+                <p class="ui-li-aside">{{ trans('startdate') }}&nbsp;{{ course.startdate|date('d/m/Y') }}</p>
+            </a>
+        </li>
+        {% else %}
+            <li>
+                <h3>None</h3>
+                <p>You are not enrolled on any courses.</p>
+            </li
+        {% endfor %}
+    </ul>
+{% endblock %}

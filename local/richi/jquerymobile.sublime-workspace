@@ -1,0 +1,402 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"login",
+				"loginerrors"
+			],
+			[
+				"comp",
+				"compass-table"
+			],
+			[
+				"no-re",
+				"no-records"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"fi",
+				"first-time-login"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"vis",
+				"visited  (pseudo-class)"
+			],
+			[
+				"side",
+				"sideblock"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"midd",
+				"middle-column"
+			],
+			[
+				"mi",
+				"middle-column"
+			],
+			[
+				"it",
+				"item"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Pack	",
+				"Package Control: Install Package"
+			],
+			[
+				"PA",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:  ",
+				"Package Control: Add Channel"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 181.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/riccardo/Projects/jquerymobiletutorial/index.html",
+		"/home/riccardo/Projects/compass/theme/compass3/user_styles.css",
+		"/home/riccardo/Documents/project_docs/compass/compass_home_page_flash",
+		"/home/riccardo/Documents/project_docs/compass/staging_old_system_checker.txt",
+		"/home/riccardo/Projects/compass/theme/compass3/rtl.css",
+		"/home/riccardo/Projects/compass/theme/compass3/styles_ie7.css",
+		"/home/riccardo/Projects/compass/local/compass_login/css/styles.css",
+		"/home/riccardo/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+		"/home/riccardo/Projects/compass/compass.sublime-workspace",
+		"/home/riccardo/Projects/compass/lib/pagelib.php",
+		"/home/riccardo/Projects/compass/index.php",
+		"/home/riccardo/Projects/compass/lib/javascript-static.js",
+		"/home/riccardo/Projects/compass/lib/weblib.php",
+		"/home/riccardo/Projects/compass/theme/standard/user_styles.css",
+		"/home/riccardo/Projects/compass/lang/en_utf8/help/cookies.html",
+		"/home/riccardo/Projects/compass/local/compass_login/ajax/usernamecheck.php",
+		"/home/riccardo/Projects/compass/local/compass_login/index.php",
+		"/home/riccardo/Projects/compass/login/forgot_password.php",
+		"/home/riccardo/Projects/compass/login/forgot_password_form.php",
+		"/home/riccardo/Projects/compass/local/lang/en_utf8/local.php",
+		"/home/riccardo/Projects/compass/theme/compass3/header.html",
+		"/home/riccardo/Projects/compass/theme/compass/README.html",
+		"/usr/share/applications/apport-gtk-mime.desktop",
+		"/home/riccardo/Projects/boc/theme/boc/lib.php",
+		"/home/riccardo/Projects/judicial/theme/judicialcollege/version.php",
+		"/home/riccardo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/riccardo/Projects/bmi/config.php",
+		"/home/riccardo/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/usr/share/applications/sublime.desktop",
+		"/home/riccardo/Projects/tti/theme/tti/header.html",
+		"/home/riccardo/Projects/turn2us/theme/turn2us/renderers.php",
+		"/home/riccardo/Projects/bat/local/vttc_lang_filter_menu/index.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/riccardo/Projects/compass/theme/compass3/",
+			"/home/riccardo/Projects/compass/",
+			"/home/riccardo/Projects/compass/theme/compass3/",
+			"/home/riccardo/Projects/compass/",
+			"/home/riccardo/Projects/compass/theme/",
+			"/home/riccardo/Projects/compass/theme/compass3/",
+			"/home/riccardo/Projects/compass/",
+			"/home/riccardo/Projects/compass/theme/compass3/",
+			"/home/riccardo/Projects/compass/",
+			"/home/riccardo/Projects/compass/theme/compass3",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sideblock",
+			"#home_check_system",
+			"my_learning_wrapper",
+			"compass-login-header",
+			"compass-header",
+			"difficulties",
+			"compass-faq-wrapper",
+			"compass-",
+			"#passwordform",
+			"#namemessage",
+			"passwordreminder",
+			"#local-compass_login-index #usernameform ",
+			"#local-compass_login-index #usernameform .form-input",
+			"#usernameform .form-input",
+			" #usernameform .form-input",
+			"#local-compass_login-index #usernameform .form-input",
+			"#local-compass_login-index #page .loginbox",
+			"#usernameform",
+			"#local-compass_login-index #page #password",
+			"#username, #local-compass_login-index #page #password",
+			"passwordform",
+			"#passwordform #password, #passwordform input[type=\"submit\"]",
+			".loginbox",
+			"#local-compass_login-index #returningform #passwordform ~ .loginerrors",
+			"#passwordform input[type=\"submit\"]",
+			"#username",
+			"#namemessage",
+			"function print_header(",
+			"function print_header",
+			"print_header",
+			"user_login_string",
+			"logout-wrapper",
+			"$menu = ",
+			"$menu",
+			"#local-course-index .navbar ul li:last-child",
+			"content_bg2.gif",
+			"javascript.php",
+			"bg_poll_top",
+			"javascript-static",
+			"elementCookieHide",
+			"bg_admin.gif",
+			"sideblock_bg.png",
+			"sideblocktop_bg.png",
+			"content_bg.gif",
+			"tab2.jpg",
+			"input[type=",
+			"a:visited",
+			"#455560",
+			"#my-learning-wrapper table th.ml_date",
+			"table.compass-table tr",
+			"#site-index #layout-table #left-column, #layout-table #left-column",
+			"namelabel",
+			"usersname",
+			"If you are not",
+			"please check your Employee number\nplease check your Employee number\nplease check your Employee number\nplease check your Employee number\nplease check your Employee number\nplease check your Employee number",
+			" #local-compass_login-index .loginbox.first-time-login .form-input",
+			"incorrectpassword",
+			"The password you typed is not correct. Please try again or use the ",
+			"The password you typed is not correct. Please try again or use the \"Password Reminder\"",
+			".loginbox.first-time-login",
+			".loginboc.first-time-login",
+			"#local-compass_login-index .loginbox.first-time-login .form-label",
+			"#username",
+			"#page.first-time-login",
+			"first-time-login",
+			".firsttimelogin",
+			"#page.firsttimelogin",
+			"background-color: #455560;",
+			"usernamenotfound",
+			"Name not found. Please check your payslip and try again.",
+			"headermain",
+			".headerinfo",
+			"login-icon-wrapper",
+			"logout-wrapper",
+			".sideblock a",
+			".sideblock, .sideblock a",
+			"body a",
+			".sideblock",
+			"$OUTPUT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"theme/compass/",
+				"theme/compass/README.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/riccardo/Projects/bmi/bmi.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 330.0,
+	"status_bar_visible": true
+}

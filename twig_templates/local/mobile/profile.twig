@@ -1,0 +1,21 @@
+{% extends 'local/mobile/base.twig' %}
+
+{% block title %}{{ trans('profile') }}{% endblock %}
+
+{% block nav %}
+    <ul>
+        <li><a href="{{ logout_url }}" data-ajax="false">{{ trans('logout') }}&nbsp;{{ user.firstname }}</a></li>
+        <li><a href="{{ courses_url }}">{{ trans('courses') }}</a></li>
+        <li><a href="{{ profile_url }}" class="ui-disabled">{{ trans('profile') }}</a></li>
+    </ul>
+{% endblock %}
+
+{% block content %}
+    <div>Welcome&nbsp;{{ user.firstname }}&nbsp;{{ user.lastname }}</div>
+    <div>Your email address is {{ user.email }}</div>
+    {% if user.lastlogin is empty or user.lastlogin == '0' %}
+        <div>This is the first time you have logged in.</div>
+    {% else %}
+        <div>You last logged into the site on {{ user.lastlogin|date('d/m/Y') }} at {{ user.lastlogin|date('H:i:s') }}</div>
+    {% endif %}
+{% endblock %}

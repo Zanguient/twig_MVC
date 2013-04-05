@@ -1,0 +1,831 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"front",
+				"pagelayout-frontpage"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"course",
+				"coursesearchbox"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border-top-",
+				"border-top-width:   (property)"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"footer",
+				"footer_menu"
+			],
+			[
+				"pa",
+				"page-footer"
+			],
+			[
+				"content",
+				"content"
+			],
+			[
+				"border-t",
+				"border-top"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"in",
+				"inset  (value)"
+			],
+			[
+				"block_",
+				"block_site_main_menu"
+			],
+			[
+				"reg",
+				"region-content"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"border-lef",
+				"border-left-width"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"re",
+				"region-content"
+			],
+			[
+				"con",
+				"content_shadow"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"c",
+				"currentKey"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"compa",
+				"compass-active-link"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"print_",
+				"print_faq_link"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"the",
+				"themes"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"them",
+				"themeAttr"
+			],
+			[
+				"th",
+				"themes"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"login",
+				"loginerrors"
+			],
+			[
+				"comp",
+				"compass-table"
+			],
+			[
+				"no-re",
+				"no-records"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"fi",
+				"first-time-login"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"vis",
+				"visited  (pseudo-class)"
+			],
+			[
+				"side",
+				"sideblock"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"midd",
+				"middle-column"
+			],
+			[
+				"mi",
+				"middle-column"
+			],
+			[
+				"it",
+				"item"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacla",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack	",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Pack	",
+				"Package Control: Install Package"
+			],
+			[
+				"PA",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:  ",
+				"Package Control: Add Channel"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 181.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/riccardo/Desktop/City_Guilds_Aspire_20130307_Courses_Cat_List.txt",
+		"/home/riccardo/Projects/Generic_Mobile_Templates/Generic_Mobile_Templates.sublime-project",
+		"/home/riccardo/Dropbox/boc_view_reports_cap.php",
+		"/home/riccardo/Projects/boc/local/company/version.php",
+		"/home/riccardo/Projects/boc/local/coursecatalogue/lib.php",
+		"/home/riccardo/Projects/boc/lib/deprecatedlib.php",
+		"/home/riccardo/Projects/boc/lib/outputrenderers.php",
+		"/home/riccardo/Projects/boc/theme/boc/style/boc.css",
+		"/home/riccardo/Projects/boc/theme/boc/lib.php",
+		"/home/riccardo/Projects/boc/local/company/db/access.php",
+		"/home/riccardo/Projects/boc/config.php",
+		"/home/riccardo/Projects/boc/theme/boc/layout/standard.php",
+		"/home/riccardo/Projects/boc/theme/boc/style/core.css",
+		"/home/riccardo/Projects/boc/theme/boc/config.php",
+		"/home/riccardo/Desktop/rename_db.sql",
+		"/home/riccardo/Projects/boc/theme/boc/layout/login.php",
+		"/home/riccardo/Projects/bmi/theme/bmi/layout/frontpage.php",
+		"/home/riccardo/Projects/boc/theme/boc/style/pagelayout.css",
+		"/home/riccardo/Projects/boc/theme/boc/layout/frontpage.php",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/layout/frontpage.php",
+		"/home/riccardo/Projects/newGKN2/theme/gkn/layout/general.php",
+		"/home/riccardo/Projects/newGKN2/theme/gkn/style/pagelayout.css",
+		"/home/riccardo/Projects/newGKN2/theme/gkn/style/blocks.css",
+		"/home/riccardo/Projects/newGKN2/theme/gkn/style/core.css",
+		"/home/riccardo/Projects/newGKN2/theme/gkn/config.php",
+		"/home/riccardo/Projects/newGKN2/theme/gkn/layout/frontpage.php",
+		"/home/riccardo/Projects/newGKN2/lang/en/enrol.php",
+		"/home/riccardo/Projects/boc/version.php",
+		"/home/riccardo/Projects/bmi/theme/bmi/style/core.css",
+		"/home/riccardo/Projects/compass/course/format/topics/format.php",
+		"/home/riccardo/Projects/compass/mod/forum/lib.php",
+		"/home/riccardo/Projects/compass/lib/weblib.php",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/renderers.php",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/style/navigation.css",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/style/pagelayout.css",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/style/blocks.css",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/lib.php",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/lang/en/theme_whitbread.php",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/style/admin.css",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/config.php",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/layout/general.php",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/layout/login.php",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/style/login.css",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/style/question.css",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/style/core.css",
+		"/home/riccardo/Projects/whitbread/login/index.php",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/style/css3.css",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/style/course.css",
+		"/home/riccardo/Dropbox/insertion_sort.js",
+		"/home/riccardo/Projects/whitbread/theme/index.php",
+		"/home/riccardo/Projects/whitbread/config.php",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/layout/report.php",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/layout/popup.php",
+		"/home/riccardo/Projects/whitbread/theme/whitbread/version.php",
+		"/home/riccardo/Projects/compass/theme/compass3/user_styles.css",
+		"/home/riccardo/Projects/compass/local/compass_login/index.php",
+		"/home/riccardo/Projects/compass/local/compass_login/js/compasslogin.js",
+		"/home/riccardo/Projects/compass/local/compass_login/ajax/usernamecheck.php",
+		"/home/riccardo/Projects/compass/theme/compass3/styles_ie7.css",
+		"/home/riccardo/Projects/compass/lang/en_utf8/admin.php",
+		"/home/riccardo/Projects/compass/course/view.php",
+		"/home/riccardo/Projects/compass/theme/compass3/header.html",
+		"/home/riccardo/Projects/compass/lang/en_utf8/local.php",
+		"/home/riccardo/Dropbox/test.html",
+		"/home/riccardo/Projects/compass/local/lang/en_utf8/local.php",
+		"/home/riccardo/Projects/compass/local/_utils/setup_scripts/add_profile_fields.php",
+		"/home/riccardo/Projects/compass/local/my/templates/my-course-list.php",
+		"/home/riccardo/Projects/compass/lang/en_utf8/moodle.php",
+		"/home/riccardo/Projects/compass/theme/compass3/config.php",
+		"/home/riccardo/Projects/compass/theme/compass3/styles_ie.css",
+		"/home/riccardo/Projects/compass/theme/compass/styles_ie7.css",
+		"/home/riccardo/Projects/compass/local/compass_reports/views/user-course-list.php",
+		"/home/riccardo/Projects/compass/local/my/controller.php",
+		"/home/riccardo/Projects/compass/login/forgot_password.php",
+		"/home/riccardo/Projects/compass/login/index.php",
+		"/home/riccardo/Projects/compass/login/forgot_password_form.php",
+		"/home/riccardo/Projects/compass/login/change_password.php",
+		"/home/riccardo/Projects/compass/login/environment.php",
+		"/home/riccardo/Projects/compass/login/confirm.php",
+		"/home/riccardo/Projects/compass/login/change_password_form.php",
+		"/home/riccardo/Projects/Generic_Mobile_Templates/local/jquerymobiletutorial/tinyMVC/templates/index.phtml",
+		"/home/riccardo/Projects/Generic_Mobile_Templates/local/jquerymobiletutorial/tinyMVC/index.php",
+		"/home/riccardo/Projects/Generic_Mobile_Templates/local/jquerymobiletutorial/twigMVC/models/course.php",
+		"/home/riccardo/Projects/Generic_Mobile_Templates/local/jquerymobiletutorial/twigMVC/index.php",
+		"/home/riccardo/Projects/Generic_Mobile_Templates/local/jquerymobiletutorial/jquerymobile.sublime-project",
+		"/home/riccardo/Projects/jquerymobiletutorial/twigMVC/templates/hello.xml",
+		"/home/riccardo/Projects/jquerymobiletutorial/twigMVC/index.php",
+		"/home/riccardo/Projects/jquerymobiletutorial/twigMVC/templates/hello.phtml",
+		"/home/riccardo/Projects/jquerymobiletutorial/index.html",
+		"/home/riccardo/Projects/jquerymobiletutorial/index.php",
+		"/home/riccardo/Projects/jquerymobiletutorial/index2.html",
+		"/home/riccardo/Projects/jquerymobiletutorial/templates/index.xml",
+		"/home/riccardo/Projects/jquerymobiletutorial/templates/index.phtml",
+		"/home/riccardo/Projects/jquerymobiletutorial/twigtest.php",
+		"/home/riccardo/Projects/jquerymobiletutorial/js/my.js",
+		"/home/riccardo/Projects/jquerymobiletutorial/my.js",
+		"/home/riccardo/Projects/bat/local/vttc_courses/js/vttc-accordion.js",
+		"/home/riccardo/Documents/project_docs/compass/compass_home_page_flash",
+		"/home/riccardo/Documents/project_docs/compass/staging_old_system_checker.txt",
+		"/home/riccardo/Projects/compass/theme/compass3/rtl.css",
+		"/home/riccardo/Projects/compass/local/compass_login/css/styles.css",
+		"/home/riccardo/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+		"/home/riccardo/Projects/compass/compass.sublime-workspace",
+		"/home/riccardo/Projects/compass/lib/pagelib.php",
+		"/home/riccardo/Projects/compass/index.php",
+		"/home/riccardo/Projects/compass/lib/javascript-static.js",
+		"/home/riccardo/Projects/compass/theme/standard/user_styles.css",
+		"/home/riccardo/Projects/compass/lang/en_utf8/help/cookies.html",
+		"/home/riccardo/Projects/compass/theme/compass/README.html",
+		"/usr/share/applications/apport-gtk-mime.desktop",
+		"/home/riccardo/Projects/judicial/theme/judicialcollege/version.php",
+		"/home/riccardo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/riccardo/Projects/bmi/config.php",
+		"/home/riccardo/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/usr/share/applications/sublime.desktop",
+		"/home/riccardo/Projects/tti/theme/tti/header.html",
+		"/home/riccardo/Projects/turn2us/theme/turn2us/renderers.php",
+		"/home/riccardo/Projects/bat/local/vttc_lang_filter_menu/index.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/riccardo/Projects/boc",
+			"/home/riccardo/Projects/boc/theme/boc/style",
+			"/home/riccardo/Projects/newGKN2/theme/boc/style",
+			"/home/riccardo/Projects/newGKN2/theme/gkn/style",
+			"/home/riccardo/Projects/newGKN2/theme/gkn",
+			"/home/riccardo/Projects/gkn/",
+			"/home/riccardo/Projects/newGKN2/",
+			"/home/riccardo/Projects/newGKN2/theme/gkn",
+			"/home/riccardo/Projects/newGKN2/",
+			"/home/riccardo/Projects/boc/",
+			"/home/riccardo/Projects/compass/",
+			"/home/riccardo/Projects/whitbread/",
+			"/home/riccardo/Projects/whitbread/theme/whitbread/style/",
+			"/home/riccardo/Projects/whitbread/theme/whitbread/",
+			"/home/riccardo/Projects/compass/",
+			"/home/riccardo/Projects/compass/theme/compass3",
+			"/home/riccardo/Projects/compass/",
+			"/home/riccardo/Projects/compass/local/my",
+			"/home/riccardo/Projects/compass/",
+			"/home/riccardo/Projects/compass/login/",
+			"/home/riccardo/Projects/Generic_Mobile_Templates/",
+			"/home/riccardo/Projects/compass/theme/compass3/",
+			"/home/riccardo/Projects/compass/",
+			"/home/riccardo/Projects/compass/theme/compass3/",
+			"/home/riccardo/Projects/compass/",
+			"/home/riccardo/Projects/compass/theme/",
+			"/home/riccardo/Projects/compass/theme/compass3/",
+			"/home/riccardo/Projects/compass/",
+			"/home/riccardo/Projects/compass/theme/compass3/",
+			"/home/riccardo/Projects/compass/",
+			"/home/riccardo/Projects/compass/theme/compass3",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".boc-course-list .boc-courseinfo a",
+			"link_to_popup_window",
+			"function action_link",
+			"action_link",
+			"link_to_popup_window",
+			"boc-courseinfo",
+			".path-totara-program .nextsetoperator .operator-or",
+			".pagelayout-frontpage #page-content #region-main",
+			"#region-bottom-box",
+			"#region-bottom-box, #region-admin-box",
+			".pagelayout-frontpage #page-content #region-main",
+			"#page-content #region-pre",
+			".pagelayout-frontpage #page-content #region-post",
+			"hassidepre",
+			"showsidepre",
+			"showMiddlePre",
+			"hassidepre",
+			"#wrapper",
+			"#page-footer div.footer-content",
+			"0px",
+			" padding: 0 0 170px;",
+			"#wrapper",
+			"#page-footer",
+			"#footer-content-wrapper",
+			"#page-content-wrapper",
+			"#page-content",
+			"font-size",
+			"block_totara_my_learning_nav",
+			"read-only view ",
+			"read_only_view",
+			"div.plan_box",
+			"Enrolment option",
+			"2011102700",
+			"CAPABILITIES",
+			"CONTEXT_SITE",
+			"CONTEXT_",
+			"2011120506",
+			"2011120502",
+			"viewreports",
+			"boc:viewreports",
+			"turneditingoff",
+			"Turn editing off",
+			"right-column",
+			"middle-column",
+			"get_device",
+			"my-courses-wrapper",
+			"#my-courses-wrapper .mycourses.block .centerblock tr",
+			"my-courses",
+			"page-admin-purgecaches",
+			"findcoursesurl",
+			"findcourses",
+			"#page-my-index #region-main .region-content",
+			"footer-content",
+			"page-header",
+			"content-only",
+			"6B6B6B",
+			"#page-my-index",
+			"page-my-index",
+			"menu-whitbread-home",
+			".ie8",
+			"#page-content #region-main",
+			"width: 455",
+			"#page-content #region-post ",
+			"#page-content #region-post .region-content",
+			"#page-content #region-main",
+			"#page-content #region-pre ",
+			"#page-content #region-pre .region-content",
+			".site-pre",
+			"#page-content #region-pre .region-content",
+			"whitbread",
+			"whitbread-image",
+			"#page-footer .footer-content",
+			"#page-footer",
+			".sideblock div.header#",
+			"#page-content #region-main",
+			"#page-content #region-pre",
+			"div#totaramenu ul li.selected li a",
+			"div#totaramenu ul ul",
+			"div#totaramenu",
+			"div#totaramenu ul li li a:hover",
+			"div#totaramenu ul lil li a:hover",
+			"background",
+			"3289ca",
+			"ul li:hover",
+			"selected",
+			"#page-content #region-pre ",
+			"#page-content #region-pre .region-content,",
+			"#page-content #region-pre .region-content",
+			"totaramenu",
+			"div#totaramenu ul li a",
+			"totaramenu",
+			"#totaramenu",
+			"profileblock",
+			".headermenu",
+			"#page-content",
+			"page-header",
+			"standardtotara",
+			"theme_bmi",
+			"bmi",
+			"compass-username-submit",
+			".topics",
+			"emailmessage",
+			"passwordmessage",
+			"id=\"passwordmessage\"",
+			"passwordsdontmatch",
+			"passwordmessage",
+			"#page.first-time-login #namelabel",
+			"site-index ",
+			"right-column",
+			"#header",
+			"compass-header-bottom",
+			"compassmainheader1",
+			"$string['allcourses']",
+			"#local-compass_reports-index .kineo_compass_reports_element a",
+			"contact_manager",
+			"Sorry, your current job role",
+			"usernamenotfound",
+			"['yourname",
+			"[\"yourname",
+			"$string[\"yourname",
+			"$string['yourname",
+			"yourname",
+			"string['yourname",
+			"yourname",
+			"namemessage",
+			"#local-compass_login-index #page.first-time-login .loginbox .form-input select",
+			"#local-compass_login-index #page.first-time-login .loginbox",
+			"firsttimeform"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"theme/boc/style/page",
+				"theme/boc/style/pagelayout.css"
+			],
+			[
+				"theme/bmi/style/core",
+				"theme/bmi/style/core.css"
+			],
+			[
+				"theme/boc/lang",
+				"theme/boc/lang/en/theme_boc.php"
+			],
+			[
+				"theme/whitbread/style",
+				"theme/whitbread/style/navigation.css"
+			],
+			[
+				"theme/whit",
+				"theme/whitbread/config.php"
+			],
+			[
+				"theme/compass3/ie",
+				"theme/compass3/styles_ie7.css"
+			],
+			[
+				"theme/compass/ie",
+				"theme/compass/styles_ie7.css"
+			],
+			[
+				"theme/compass3/sty",
+				"theme/compass3/styles_ie.css"
+			],
+			[
+				"theme/compass3/us",
+				"theme/compass3/user_styles.css"
+			],
+			[
+				"login/for",
+				"login/forgot_password.php"
+			],
+			[
+				"theme/compass/",
+				"theme/compass/README.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/riccardo/Projects/bmi/bmi.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}

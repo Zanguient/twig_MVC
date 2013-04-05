@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Mobile</title>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css" />
+    <link rel="stylesheet" href="{{ base_url }}/css/styles.css" />
+    <script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
+</head>
+<body>
+
+<div data-role="page">
+
+    <div data-role="header">
+        <div><p class="centre">{% block title %}Totara Mobile{% endblock %}</p></div>
+        <div data-role="navbar">
+            {% block nav %}
+                <ul>
+                    {% if authenticated() %}
+                        <li><a href="{{ logout_url }}" data-ajax="false">{{ trans('logout') }}&nbsp;{{ user.firstname }}</a></li>
+                        <li><a href="{{ courses_url }}">{{ trans('courses') }}</a></li>
+                        <li><a href="{{ profile_url }}">{{ trans('profile') }}</a></li>
+                    {% else %}
+                        <li><a href="{{ logout_url }}" data-ajax="false">{{ trans('login') }}</a></li>
+                        <li><a href="{{ courses_url }}" class="ui-disabled">{{ trans('courses') }}</a></li>
+                        <li><a href="{{ profile_url }}" class="ui-disabled">{{ trans('profile') }}</a></li>
+                    {% endif %}
+                </ul>
+            {% endblock %}
+        </div>
+    </div>
+
+    <div data-role="content">
+        {% block content %}
+            <div>Please override the base template!</div>
+        {% endblock %}
+    </div>
+
+    <div data-role="footer">
+        <h4>Totara mobile</h4>
+    </div>
+
+</div>
+
+</body>
+</html>

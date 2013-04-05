@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+ 
+<html>
+    <head>
+	<meta charset="utf-8">
+	<link rel="dns-prefetch" href="//code.jquery.com">
+ 
+	<!-- Ensure we set a viewport so everything scales appropriately on mobile devices. -->
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+ 
+    <title>Dynamically Change Theme</title>
+ 
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0b1/jquery.mobile-1.0b1.min.css" />
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.2.min.js"></script> 
+	<script type="text/javascript" src="http://code.jquery.com/mobile/1.0b1/jquery.mobile-1.0b1.min.js"></script>
+</head>
+ 
+<body>
+	<!-- Start of first page -->
+	<div data-role="page" id="first" class="jqm-page" data-theme="a">
+ 
+		<div data-role="header">
+			<h1>Dynamically Change Theme</h1>
+		</div><!-- /header -->
+ 
+		<div data-role="content" id="first-content">
+			<h4 style="text-align: center" id="current-theme">Current Theme: a</h4>
+			<p><a data-role="button" theme="a">Theme a</a></p>
+			<p><a data-role="button" theme="b">Theme b</a></p>
+			<p><a data-role="button" theme="c">Theme c</a></p>
+			<p><a data-role="button" theme="d">Theme d</a></p>
+			<p><a data-role="button" theme="e">Theme e</a></p>
+		</div><!-- /content -->
+ 
+		<!--
+		<div data-role="footer" data-theme="b">
+			<h4>Page Footer</h4>
+		</div>--><!-- /footer -->
+	</div><!-- /page -->
+ 
+	<script type="text/javascript">
+		(function() {
+			function element_theme_refresh( element, oldTheme, newTheme ) {
+				/* Update the page's new data theme. */
+				if( $(element).attr('data-theme') ) {
+					$(element).attr('data-theme', newTheme);
+				}
+ 
+				if( $(element).attr('class') ) {
+					/* Theme classes end in "-[a-z]$", so match that */
+					var classPattern = new RegExp('-' + oldTheme + '$');
+					newTheme = '-' + newTheme;
+ 
+					var classes =  $(element).attr('class').split(' ');
+ 
+					for( var key in classes ) {
+						if( classPattern.test( classes[key] ) ) {
+							classes[key] = classes[key].replace( classPattern, newTheme );
+						}
+					}
+ 
+					$(element).attr('class', classes.join(' '));
+				}
+			}
+			
+			$('.jqm-page').bind('refresh', function(e, newTheme) {
+				/* Default to the "a" theme. */
+				var oldTheme = $(this).attr('data-theme') || 'a';
+				newTheme = newTheme || 'a';
+				
+				element_theme_refresh( $(this), oldTheme, newTheme );
+	
+				$(this).find('*').each(function() {
+					element_theme_refresh( $(this), oldTheme, newTheme );
+				});
+			});
+ 
+			$('#first-content a').live('tap', function() {
+				var newTheme = $(this).attr('theme');
+ 
+				$('#current-theme').text('Current Theme: ' + newTheme);
+				
+				$('#first').trigger('refresh', newTheme);
+			});
+		})();
+	</script>
+</body>
+</html>

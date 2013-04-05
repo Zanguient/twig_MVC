@@ -1,0 +1,29 @@
+{% extends 'local/mobile/base.twig' %}
+
+{% block title %}{{ trans('login') }}{% endblock %}
+
+{% block nav %}
+    <ul>
+        <li><a href="javascript:" class="ui-disabled">{{ trans('login') }}</a></li>
+        <li><a href="javascript:" class="ui-disabled">{{ trans('courses') }}</a></li>
+        <li><a href="javascript:" class="ui-disabled">{{ trans('profile') }}</a></li>
+    </ul>
+{% endblock %}
+
+{% block content %}
+    <form action="{{ url }}" method="post" data-ajax="false">
+        {% for error in errors %}
+            <div>{{ trans(error.identifier, error.component) }}</div>
+        {% endfor %}
+        <input type="hidden" name="sesskey" value="{{ sesskey() }}" />
+        <div data-role="fieldcontain" class="ui-hide-label">
+            <label class="ui-input-text">{{ trans('username') }}</label>
+            <input type="text" name="username" placeholder="{{ trans('username') }}" />
+        </div>
+        <div data-role="fieldcontain" class="ui-hide-label">
+            <label class="ui-input-text">{{ trans('password') }}</label>
+            <input type="password" name="password" placeholder="{{ trans('password') }}" />
+        </div>
+        <input type="submit" value="{{ trans('submit') }}"/>
+    </form>
+{% endblock %}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<h1>All Courses</h1>
+<table>
+    <tbody>
+    <?php foreach ($this->courses as $course): ?>
+        <tr>
+            <td><?php print($course->course_id); ?></td>
+            <td><?php print($course->course_name); ?></td>
+            <td><?php print($course->cat_name); ?></td>
+        </tr>
+    <?php endforeach; ?>
+    </tbody>
+</table>
+</body>
+</html>

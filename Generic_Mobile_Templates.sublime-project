@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/riccardo/Projects/Generic_Mobile_Templates"
+		}
+	],
+	"settings": {
+    "xdebug": { "url": "http://mobile_templates.local/index.php" }
+	}
+}

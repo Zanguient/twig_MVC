@@ -1,0 +1,6 @@
+<?='<?xml version="1.0" encoding="utf-8"?>'?>
+<myfriends>
+    <?php foreach ($this->friends as $friend): ?>
+        <friend><?=$friend?></friend>
+    <?php endforeach; ?>
+</myfriends>
